@@ -1,4 +1,4 @@
-- 👋 Welcome to Kinyua's page
+- 👋 Welcome
 -  I code
 -  I love chess
 
